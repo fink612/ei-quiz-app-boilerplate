@@ -12,9 +12,15 @@ h1 {
  font-size: 40px
 }
 
+.scoreKeeper {
+  text-align: center;
+  font-size: 24px;
+
 .question-box {
   margin: 80px;
   padding 50px;
-  background: light-grey;
+  background: rgb(226 220 220 / 80%);
+  border-radius: 20px;
+  border: 4px;
 }
   
